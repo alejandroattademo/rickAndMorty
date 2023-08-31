@@ -1,13 +1,11 @@
 .App {
-   text-align: center;   
+  text-align: center;
 }
 
-.nav{
-   background-color: #385170; ;
-   padding-top: 1em;
-   padding-bottom: 2em;
-   display: flex;
-   flex-direction: row;
-   /*justify-content: end;*/
-   margin-bottom: 1em;
+.nav {
+  background-color: #703838;
+  padding-top: 1em;
+  padding-bottom: 2em;
+  display: flex;
+  margin-bottom: 1em;
 }
